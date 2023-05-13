@@ -19,4 +19,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FullPenetrationTesting&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FullPenetrationTesting&theme=onedark)](https://github.com/FullPenetrationTesting/github-profile-trophy)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FullPenetrationTesting" alt="FullPenetrationTesting" /></p>
